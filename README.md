@@ -1,7 +1,7 @@
 ![alt text][logo]
 # Learning Git
 Learning Git , Journal
-[logo]: https://github.com/manguilar22/icons/blob/master/Octocat.png "Octocat"
+[logo]: https://github.com/manguilar22/icons/blob/master/Octocat.png "Logo Title Text 2"
 #### Starting Projects with Git 
 ```bash
 git init project_name 
