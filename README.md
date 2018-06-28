@@ -2,7 +2,7 @@
 
 Learning Git , Journal
 
-![alt text](https://github.com/manguilar22/icons/blob/master/Octocat.png "Logo Title Text 1")
+<img src="https://github.com/manguilar22/icons/blob/master/Octocat.png" width="200" height="200"/>
 
 #### Starting Projects with Git 
 ```bash
