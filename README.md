@@ -3,8 +3,8 @@ Learning Git , Journal
 
 #### Starting Projects with Git 
 ```bash
-git init <project_name> 
-git init --bare<project_name> 
+git init project_name 
+git init --bare project_name
 ```
 
 #### Using Git Config
