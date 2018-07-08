@@ -29,13 +29,13 @@ git status -v
 git add . 
 ```
 
-## Commit changes to Project 
+#### Commit changes to Project 
 ```bash 
 git commit 
 git commit -m "Commit changes with a comment" 
 ```
 
-### Creating a *development* branch
+#### Creating a *development* branch
 ```bash
 git checkout -b development 
 ```
