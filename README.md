@@ -1,8 +1,8 @@
-# Learning Git
+# Learning Git <img src="https://github.com/manguilar22/icons/blob/master/Octocat.png" width="100" height="100"/>
 
 Learning Git , Journal
 
-<img src="https://github.com/manguilar22/icons/blob/master/Octocat.png" width="200" height="200"/>
+<a src="https://www.webpagefx.com/tools/emoji-cheat-sheet/">emoji-cheat-sheet</a> :octocat:
 
 #### Starting Projects with Git 
 ```bash
