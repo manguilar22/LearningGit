@@ -2,7 +2,7 @@
 
 Learning Git , Journal
 
-<a src="https://www.webpagefx.com/tools/emoji-cheat-sheet/">emoji-cheat-sheet</a> :octocat:
+<a href="https://www.webpagefx.com/tools/emoji-cheat-sheet/">emoji-cheat-sheet</a> :octocat:
 
 #### Starting Projects with Git 
 ```bash
