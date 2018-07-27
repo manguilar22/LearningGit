@@ -1,7 +1,12 @@
 # Learning Git <img src="https://github.com/manguilar22/icons/blob/master/Octocat.png" width="100" height="100"/>
 
-Learning Git , Journal
+* Git Basics
+* Tags, Branching, Merging and Reverting
+* Logging and Auditing 
+* Pull Request 
+* GitLab - Installation, Confirguration, and Use
 
+<a href="https://git-scm.com/book/en/v2">Free Git Book</a> :closed_book: 
 <a href="https://www.webpagefx.com/tools/emoji-cheat-sheet/">emoji-cheat-sheet</a> :octocat:
 
 #### Starting Projects with Git 
