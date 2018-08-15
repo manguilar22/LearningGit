@@ -5,9 +5,9 @@
 * Logging and Auditing 
 * Pull Request 
 * GitLab - Installation, Confirguration, and Use
-<a href="http://git-school.github.io/visualizing-git/#free"> Visualize Git</a> 
-<a href="https://git-scm.com/book/en/v2">Free Git Book</a> :closed_book: 
-<a href="https://www.webpagefx.com/tools/emoji-cheat-sheet/">emoji-cheat-sheet</a> :octocat:
+* <a href="http://git-school.github.io/visualizing-git/#free"> Visualize Git</a> 
+* <a href="https://git-scm.com/book/en/v2">Free Git Book</a> :closed_book: 
+* <a href="https://www.webpagefx.com/tools/emoji-cheat-sheet/">emoji-cheat-sheet</a> :octocat:
 
 #### Starting Projects with Git 
 ```bash
