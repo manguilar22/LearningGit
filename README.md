@@ -39,7 +39,10 @@ git add .
 git commit 
 git commit -m "Commit changes with a comment" 
 ```
-
+#### Add and Commit Files to Project 
+```bash
+git -a -m commit "Commit changes with a comment"
+```
 #### Creating a *development* branch
 ```bash
 git checkout -b development 
