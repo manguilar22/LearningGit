@@ -13,6 +13,7 @@
 ```bash
 git init project_name 
 git init --bare project_name
+git init --bare /path/to/repo.git
 ```
 
 #### Using Git Config
