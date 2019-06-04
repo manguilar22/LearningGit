@@ -48,3 +48,8 @@ git -a -m commit "Commit changes with a comment"
 ```bash
 git checkout -b development 
 ```
+#### Pulling the *development* branch
+
+ ```bash
+ git clone --branch=development https://www.github.com/user/repo
+ ```
